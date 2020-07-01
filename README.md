@@ -2,6 +2,11 @@
 
 TensorFlow(2.0以降)の学習まとめ
 
+Tensorflow公式ページのチュートリアルにある内容をJupyter Notebookで実行しながら、引っかかった点や調べた点など、必要に応じてコメントなどを追加している。
+
+TensorFlow - チュートリアル
+[https://www.tensorflow.org/tutorials](https://www.tensorflow.org/tutorials)
+
 
 ## 環境・バージョン情報
 - Windows 10
